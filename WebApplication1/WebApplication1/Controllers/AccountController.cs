@@ -20,6 +20,7 @@ namespace WebApplication1.Controllers
 
         public AccountController()
         {
+            // parfait
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
